@@ -1,0 +1,5 @@
+:root { font-family: system-ui, sans-serif; color: #222; background: #fff; }
+body { max-width: 32rem; margin: 2.5rem auto; padding: 0 1rem; line-height: 1.45; }
+h1 { font-size: 1.25rem; font-weight: 600; }
+footer { margin-top: 2.5rem; padding-top: 1rem; border-top: 1px solid #e5e5e5; font-size: 0.85rem; color: #555; }
+a { color: #333; }
